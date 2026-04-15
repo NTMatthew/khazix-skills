@@ -20,7 +20,7 @@
 | Skill | 说明 | 讲解 |
 |-------|------|------|
 | [**hv-analysis**](./hv-analysis/) | 横纵分析法深度研究 Skill，自动联网收集信息，纵向追时间深度 + 横向追竞争广度，默认输出可复用的 Markdown 研究报告（可选转 PDF） | [公众号文章](https://mp.weixin.qq.com/s/Y_uRMYBmdLWUPnz_ac7jWA) |
-| [**khazix-writer**](./khazix-writer/) | 卡兹克公众号长文写作 Skill，包含完整的写作风格规则、四层自检体系、内容方法论和风格示例库 | [公众号文章](https://mp.weixin.qq.com/s/AtxGrii_K-nzkwUM9SNhEg) |
+| [**khazix-writer**](./khazix-writer/) | 卡兹克长文写作 Skill（双模式）：默认兼容原公众号叙事写法，新增知识长文与混合模式，包含模式化自检、内容方法论和风格示例库 | [公众号文章](https://mp.weixin.qq.com/s/AtxGrii_K-nzkwUM9SNhEg) |
 
 ### Skill 安装方式
 
