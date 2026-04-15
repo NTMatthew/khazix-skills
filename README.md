@@ -29,12 +29,12 @@
 在 Claude Code、Codex、OpenClaw 等支持 Skill 的 Agent 中，直接对话：
 
 ```
-安装这个 skill：https://github.com/KKKKhazix/khazix-skills
+安装这个 skill：https://github.com/NTMatthew/khazix-skills
 ```
 
 **手动安装**
 
-1. 在本仓库的 [Releases](https://github.com/KKKKhazix/khazix-skills/releases) 页面下载对应 Skill 的 `.skill` 安装包
+1. 在本仓库的 [Releases](https://github.com/NTMatthew/khazix-skills/releases) 页面下载对应 Skill 的 `.skill` 安装包
 2. 将 `.skill` 文件拖动到对应工具的 Skills 目录下
 
 各工具的 Skills 安装路径：
